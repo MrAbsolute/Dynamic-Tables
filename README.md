@@ -1,1 +1,1 @@
-# PHP-Dynamic-Tables
+# HTML-Dynamic-Tables
